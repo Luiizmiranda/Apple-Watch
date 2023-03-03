@@ -81,7 +81,7 @@ header .container nav .logo i::before{
 header .container nav ul{/*botões da home*/
     display: flex;
     gap: 3.6rem;
-   align-items: center;
+    align-items: center;
 }
 
 header .container nav ul i{
@@ -148,7 +148,7 @@ header .container .right .image{
     height: 30rem;
     position: absolute;
     top: 4rem;
-    left:8rem;
+    left: 13rem;
 }
 
 header .container .right .image img {
